@@ -1,0 +1,52 @@
+header {
+  background: url('../../photos/photo_2023-07-16_16-16-12.jpg') center no-repeat;
+  background-size: cover;
+  width: 1800vh;
+  max-width: 100%;
+  height: 70vh;
+
+  text-align: center;
+  padding: 0px;
+}
+
+
+
+
+  header .header-overlay {
+   
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 25px 0px;
+  }
+  header .header-overlay .row {
+    margin: 130px 0px;
+  }
+  header h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 35px 0px;
+    letter-spacing: 1px;
+  }
+  header p {
+    color: white;
+    font-size: 14px;
+    line-height: 30px;
+    margin: 35px 0px;
+  }
+  header form {
+    margin: 35px 0px;
+  }
+  header form button {
+    background-color: salmon;
+    width: 140px;
+    height: 45px;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+  }
+  

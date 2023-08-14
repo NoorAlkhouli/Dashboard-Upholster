@@ -1,0 +1,27 @@
+
+.bt {
+ 
+  border-radius: 9%;
+   
+  padding: 10px;
+   font-size: x-large;
+  
+    color:tomato;
+  
+}
+.bt:hover {
+    background-color: #f1b29d;
+  }
+ .fa-li{
+  color: tomato;
+ }
+ .text-uppercase  {
+  color: tomato;
+  font-family: 'Aref Ruqaa', serif;
+ }
+ .fw-normal{
+  font-family: 'Aref Ruqaa', serif;
+ }
+ .form-label{
+  font-family: 'Aref Ruqaa', serif;
+ }

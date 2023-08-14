@@ -1,0 +1,71 @@
+.logo img{
+    width: 40px;
+    display: flex;
+    border-radius: 50%;
+   
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    
+
+    }
+    .search-box{
+        flex: 1;
+        position: relative;
+        
+    }
+    .search-box input{
+        width: 99%;
+        height: 40px;
+        border: none;
+        outline: none;
+        background: rgb(175, 163, 152);
+        border-radius: 30px;
+        color: rgb(11, 11, 10);
+        font-size: 16px;
+        text-align: center;
+        font-family: 'Aref Ruqaa', serif;
+    }
+    .search-box button{
+      cursor: pointer;
+      width: 80px;
+      height: 40px;
+      border-radius: 30px;
+      border: none;
+      position: absolute;
+      top: 0;
+      right: 0;
+      transform: scale(0.9);
+      background: rgb(249, 227, 195);
+  }
+    .mbc {
+        background-color: rgba(42, 40, 40, 0.934);
+        border-radius: 15px;
+        color: aliceblue;
+        width: 100px;
+        height: 40px;
+
+      }
+      .dropdown-toggle{
+        background-color: rgba(202, 174, 122, 0.934);
+        border-radius: 15px;
+        color: aliceblue;
+        width: 100px;
+        height: 40px;
+      }
+      .mbc:hover{
+        background-color: rgba(202, 174, 122, 0.934);
+      }
+      .nav-item {
+      padding: 20px;
+      font-family: 'Aref Ruqaa', serif;
+     }
+     .dropdown{
+      padding: 20px;
+      font-family: 'Aref Ruqaa', serif;
+     }
+     .dropdown-menu{
+      background: rgb(175, 163, 152);
+      
+     }
+      
